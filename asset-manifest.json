@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/upload_files/static/css/main.202021bb.css",
+    "main.js": "/upload_files/static/js/main.011ba032.js",
+    "index.html": "/upload_files/index.html",
+    "main.202021bb.css.map": "/upload_files/static/css/main.202021bb.css.map",
+    "main.011ba032.js.map": "/upload_files/static/js/main.011ba032.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.202021bb.css",
+    "static/js/main.011ba032.js"
+  ]
+}
