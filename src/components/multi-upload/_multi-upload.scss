@@ -1,0 +1,36 @@
+#multi-upload {
+    text-align: center;
+    background-color: white;
+    padding: 0 5rem;
+
+    h1 {
+        margin-top: 2.8rem;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+        color: black;
+        font-size: 2.7rem;
+    }
+
+    .upload__image-wrapper {
+        text-align: center;
+        padding-bottom: 6rem;
+
+        .image-item {
+            margin-top: 1rem;
+
+            .image-item__btn-wrapper {
+                margin-top: 0.5rem;
+
+                button {
+                    margin: 0.5rem;
+                }
+
+                a {
+                    padding: 1px 1px 2px;
+                    font-size: 13px;
+                    font-weight: 300;
+                }
+            }
+        }
+    }
+}
